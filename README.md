@@ -1,5 +1,3 @@
-# fintech-sql-analyst
-
 # 🏦 The Fintech SQL Analyst
 
 A practical SQL course built on real fintech data, designed for analysts who want to level up beyond the basics.
